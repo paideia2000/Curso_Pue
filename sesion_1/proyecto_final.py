@@ -129,4 +129,3 @@ def ejecutar_juego():  # Invocará a las funciones "choice_pc" y "choice_ju" par
         
 if __name__ == "__main__":
     ejecutar_juego()
-    print()
